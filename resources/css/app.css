@@ -1,0 +1,9 @@
+/* Contoh custom styling */
+body {
+    background-color: #f3f4f6;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
